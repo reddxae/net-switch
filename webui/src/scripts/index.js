@@ -3,7 +3,7 @@ import { exec, toast } from 'kernelsu';
 const template = document.getElementById('app-template').content;
 const appsList = document.getElementById('apps-list');
 
-const configPath = "/data/adb/.config/net-switch/isolated.json"
+const configPath = "/data/adb/.config/net_switch/isolated.json"
 
 async function run(cmd) {
     const { errno, stdout, stderr } = await exec(cmd);

@@ -1,7 +1,6 @@
-id=net-switch
+id=net_switch
 name=Net Switch
 version=
 versionCode=
 author=Rem01Gaming
-description=Isolate apps from Internet access.
-updateJson=https://raw.githubusercontent.com/Rem01Gaming/net-switch/main/update.json
+description=A lightweight, iptables-driven firewall to control per-app internet access.

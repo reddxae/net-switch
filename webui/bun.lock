@@ -2,7 +2,7 @@
   "lockfileVersion": 1,
   "workspaces": {
     "": {
-      "name": "net-switch",
+      "name": "net_switch",
       "dependencies": {
         "kernelsu": "^1.0.6",
         "mmrl": "^0.2.26",

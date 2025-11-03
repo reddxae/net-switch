@@ -1,5 +1,5 @@
 import { MMRLInterfaceFactory } from "mmrl";
-const mmrl = MMRLInterfaceFactory("net-switch");
+const mmrl = MMRLInterfaceFactory("net_switch");
 
 // inject MMRL CSS
 mmrl.injectStyleSheets();

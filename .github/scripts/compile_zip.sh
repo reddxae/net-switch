@@ -21,7 +21,7 @@ cp -r ./src/scripts/* module/system/bin
 cp LICENSE ./module
 
 # Parse version info to module prop
-zipName="net-switch-$version-$release_code.zip"
+zipName="net_switch-$version-$release_code.zip"
 echo "zipName=$zipName" >>$GITHUB_OUTPUT
 
 # Zip the file
